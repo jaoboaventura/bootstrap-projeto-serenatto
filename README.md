@@ -53,8 +53,8 @@ Projeto desenvolvido com Bootstrap 5 como parte do curso "Bootstrap 5: novos rec
 
 🇺🇸 # Serenatto 🇺🇸
 
-Project developed with Bootstrap 5 as part of the course "Bootstrap 5: new features and best practices in HTML, CSS, and JavaScript" from the Alura platform. <br>
-[Course Certificate](https://cursos.alura.com.br/certificate/4100413a-6ff6-4cc3-b793-26d7453f9849)
+Project developed with Bootstrap 5 as part of the course "Bootstrap 5: New Features and HTML, CSS, and JavaScript Best Practices" from the Alura platform. <br>
+[Course Certificate](https://cursos.alura.com.br/certificate/4100413a-6ff6-4cc3-b793-26d7453f9849?lang=en)
 
 ## Curriculum
 
