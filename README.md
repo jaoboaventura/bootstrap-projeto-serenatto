@@ -1,6 +1,6 @@
 🇧🇷 # Serenatto 🇧🇷
 
-Projeto desenvolvido com Bootstrap 5 como parte do curso "Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript" da plataforma Alura.
+Projeto desenvolvido com Bootstrap 5 como parte do curso "Bootstrap 5: novos recursos e práticas recomendadas de HTML, CSS e JavaScript" da plataforma Alura. <br>
 [Certificado do curso](https://cursos.alura.com.br/certificate/4100413a-6ff6-4cc3-b793-26d7453f9849)
 
 ## Matriz curricular
